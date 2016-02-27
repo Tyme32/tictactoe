@@ -1,0 +1,44 @@
+/*Old Code*/
+/*.canvas {
+	width: 320px;
+	height: 320px;
+	border: 2px solid #FF0000;
+	background-color: #F0F0F0;
+	margin: 100px auto;
+}*/
+
+#grid {
+  width: 490px;
+  height: 500px;
+/*  background: #F0F0F0;
+*/  
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+
+.row {
+  width: auto;
+  height: 30px;
+
+
+}
+
+.square {
+  width: 30px; 
+  height: 30px;
+  margin: 0 px;
+  
+/*  outline: 1px solid #FF0000;
+*/  display: inline-block;
+  float: left;
+  background: #F0F0F0;
+}
+
+.etched {
+	background-color: #313131;
+}
+
+
